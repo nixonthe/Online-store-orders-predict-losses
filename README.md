@@ -1,5 +1,8 @@
 # Online-store-orders-predict-losses
 
+link to download data:
+https://drive.google.com/file/d/1t-KFemJ2iVGlzpZqev9kCwbzZStDBkOM/view?usp=sharing
+
 Легенда:
 Анонимизированные и преобразованные данные по заказам интернет-магазина (df_train.csv и df_test.csv).
 Задача состоит в предсказании расходов за отказ от покупки конкретного товара (колонка item_losses).
